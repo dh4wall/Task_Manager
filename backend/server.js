@@ -41,6 +41,7 @@ app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
 
+//custom tcp 5000
 // sudo apt update
 // curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 // sudo apt install -y nodejs git
